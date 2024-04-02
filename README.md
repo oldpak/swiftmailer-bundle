@@ -1,2 +1,0 @@
-# swiftmailer-bundle
-Symfony SwiftmailerBundle
