@@ -27,5 +27,6 @@
     },
     "autoload": {
         "psr-4": { "Symfony\\Bundle\\SwiftmailerBundle\\": "" }
-    }
+    },
+    "minimum-stability": "dev"
 }
